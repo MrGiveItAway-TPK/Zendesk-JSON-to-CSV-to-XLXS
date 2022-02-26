@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.19",
+        "zendesk/zendesk_api_client_php": "^2.2"
+    }
+}
